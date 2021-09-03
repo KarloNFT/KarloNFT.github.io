@@ -4,12 +4,12 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Pirate, NFT, Karlo"
 
 project:
-  title: "Red Pineapple"
+  title: "The Pirate"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://KarloNFT.github.io"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
