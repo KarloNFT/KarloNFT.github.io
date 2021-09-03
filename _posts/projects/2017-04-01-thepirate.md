@@ -10,7 +10,7 @@ project:
   title: "The Pirate"
   type: "Jekyll"
   url: "https://KarloNFT.github.io"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/redpineapple/thepirate.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/redpineapple/thepirate.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
