@@ -24,4 +24,4 @@ images:
     alt: "Red Pineapple website on tablet, mobile and desktop"
 
 ---
-<p>A Pirate. What is not to love about Pirates?</p>
+<p>A Pirate. My first NFT ever. Maybe I make more if you like them.</p>
