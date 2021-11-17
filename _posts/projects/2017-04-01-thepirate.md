@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/redpineapple/thepirate.jpg"
   tech: "Pen and Paper"
   
-  agency:
+agency: 
   title: "The Pirate"
   url: "https://ergoauctions.org/#/auction/active?type=all"
   year: "2021"
