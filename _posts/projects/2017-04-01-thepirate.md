@@ -14,7 +14,7 @@ project:
   tech: "Pen and Paper"
   
 agency: 
-  title: "The Pirate"
+  title: "ERGO AUCTION HOUSE"
   url: "https://ergoauctions.org/#/auction/active?type=all"
   year: "2021"
 
@@ -24,4 +24,4 @@ images:
     alt: "Red Pineapple website on tablet, mobile and desktop"
 
 ---
-<p>A Pirate. What is not to love about Pirates?.</p>
+<p>A Pirate. What is not to love about Pirates?</p>
