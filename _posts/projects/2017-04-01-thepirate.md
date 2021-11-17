@@ -14,7 +14,7 @@ project:
   tech: "Pen and Paper"
   
 agency: 
-  title: "ERGO AUCTION HOUSE"
+  title: "Ergo Auction House"
   url: "https://ergoauctions.org/#/auction/active?type=all"
   year: "2021"
 
