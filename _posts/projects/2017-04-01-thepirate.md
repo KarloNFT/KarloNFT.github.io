@@ -9,7 +9,7 @@ meta:
 project:
   title: "The Pirate"
   type: "NFT"
-  url: "https://KarloNFT.github.io"
+  url: "https://ergoauctions.org/#/auction/active?type=all"
   logo: "/assets/images/projects/redpineapple/thepirate.jpg"
   tech: "Pen and Paper"
   
