@@ -8,13 +8,13 @@ meta:
 
 project:
   title: "The Pirate"
-  type: "Jekyll"
+  type: "NFT"
   url: "https://KarloNFT.github.io"
   logo: "/assets/images/projects/redpineapple/thepirate.jpg"
   tech: "Pen and Paper"
   
   agency:
-  title: "AVAILABLE ON ERGO AUCTION HOUSE"
+  title: "The Pirate"
   url: "https://ergoauctions.org/#/auction/active?type=all"
   year: "2021"
 
