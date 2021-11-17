@@ -11,12 +11,7 @@ project:
   type: "Jekyll"
   url: "https://KarloNFT.github.io"
   logo: "/assets/images/projects/redpineapple/thepirate.jpg"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2021"
+  tech: "Pen and Paper"
 
 images:
   - image:
