@@ -12,6 +12,11 @@ project:
   url: "https://KarloNFT.github.io"
   logo: "/assets/images/projects/redpineapple/thepirate.jpg"
   tech: "Pen and Paper"
+  
+  agency:
+  title: "AVAILABLE ON ERGO AUCTION HOUSE"
+  url: "https://ergoauctions.org/#/auction/active?type=all"
+  year: "2021"
 
 images:
   - image:
@@ -19,4 +24,4 @@ images:
     alt: "Red Pineapple website on tablet, mobile and desktop"
 
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>A Pirate. What is not to love about Pirates?.</p>
